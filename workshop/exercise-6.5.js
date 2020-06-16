@@ -9,3 +9,11 @@
 // ...
 
 // many other possibilities here.
+for (let num = 0; num <= 15; num++) {
+    if (num % 2 == 0) {
+        console.log(`${num} is even`);
+    } else (num % 2 !== 0)  
+        console.log(`${num} is odd`);
+} 
+
+// after playing around for a while i can't see why this code calculates even numbers as even AND odd... seems like that's not what my code is saying
