@@ -13,3 +13,7 @@ for (let num = 1; num <= 5000; num * 4 ) {
     }
 }
 
+const longSentence = "I am a really long sentence, look how many words I have!"
+
+let firstHalf = 
+//sentence, look how
